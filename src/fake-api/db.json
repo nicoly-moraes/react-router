@@ -1,0 +1,64 @@
+{
+  "localizacoes": [
+    {
+      "cep": "74650400",
+      "endereco": "Rua 408",
+      "numero": "192",
+      "bairro": "Setor Negrão de Lima",
+      "complemento": "Condominio portal das flores 504 torre 3",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "id": 1
+    },
+    {
+      "cep": "76550000",
+      "endereco": "Rua Cláudio Manoel Costa",
+      "numero": "26",
+      "bairro": "Setor Aeroporto",
+      "complemento": "",
+      "cidade": "Porangatu",
+      "estado": "GO",
+      "id": 2
+    },
+    {
+      "cep": "74670120",
+      "endereco": "Avenida do Comércio",
+      "numero": "200",
+      "bairro": "Santa Genoveva",
+      "complemento": "",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "id": 3
+    },
+    {
+      "cep": "74650400",
+      "endereco": "Rua Valdemar Lèfevré",
+      "numero": "S/N",
+      "bairro": "Morumbi",
+      "complemento": "",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "id": 4
+    },
+    {
+      "cep": "69900013",
+      "endereco": "Travessa Cruzeiro do Sul",
+      "numero": "S/N",
+      "bairro": "Base",
+      "complemento": "",
+      "cidade": "Rio Branco",
+      "estado": "AC",
+      "id": 5
+    },
+    {
+      "cep": "57010002",
+      "endereco": "Avenida Siqueira Campos",
+      "numero": "100",
+      "bairro": "Prado",
+      "complemento": "",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.navBarBarra {
+    background-color: var(--bs-indigo);
+    height: 70px;
+}
+
+.navMenuEnd {
+    justify-content: flex-end;
+}
