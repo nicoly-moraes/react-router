@@ -60,7 +60,9 @@ export default function ListaEnderecos() {
                             </thead>
                             <tbody>
                                 {localizacoes.map((item) => {
-                                    item.cep = item.cep.slice(0, 5) + "-" + item.cep.slice(5);
+                                    if (item.cep.length == 8) {
+                                        item.cep = item.cep.slice(0, 5) + "-" + item.cep.slice(5);
+                                    }
                                     return (
                                         <tr key={item.id}>
                                             <td className="align-middle">{item.id}</td>
